@@ -4,7 +4,7 @@ license:         BSD3
 license-file:    LICENSE
 author:          Lennart Kolmodin <kolmodin@dtek.chalmers.se>
 maintainer:      Dominic Steinitz <dominic@steinitz.org>
-homepage:        https://github.com/idontgetoutmuch/binary-low-level
+homepage:        https://github.com/KrzyStar/binary-low-level
 description:     This is a strict version of the Get monad from the binary
                  package. It's pretty much just a copy and paste job from the
                  original source code. The binary team are currently unsure
