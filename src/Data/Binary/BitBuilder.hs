@@ -53,7 +53,6 @@ import qualified Data.ByteString.Lazy.Internal as L
 import Data.Binary.Strict.BitUtil
 
 #if defined(__GLASGOW_HASKELL__) && !defined(__HADDOCK__)
-import GHC.Base
 #endif
 
 ------------------------------------------------------------------------
